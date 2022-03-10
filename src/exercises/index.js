@@ -9,3 +9,4 @@ export * from "./07.removeSubset";
 export * from "./08.useAndConstructMask";
 export * from "./09.hasSameSign";
 export * from "./10.clearLowestOnBit";
+export * from "./11.setBits";
